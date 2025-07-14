@@ -89,7 +89,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Conways Game of Life](https://github.com/thomascrha/textual-game-of-life) -  A implementation of Conway's game of life (cellular automata) in the terminal using textual.
 - [Django-TUI](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI).
 - [Rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing.
-
+- [Nix-Tree](https://github.com/max-amb/nix-tree) - Terminal UI for viewing and modifying nix files, as well as generation management.
 
 ## Tutorials
 
